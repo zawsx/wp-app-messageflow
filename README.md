@@ -1,6 +1,6 @@
 Messageflow
 ===========
-
+also see http://premium.wpmudev.org/blog/build-a-web-app-with-wordpress/
 Version 0.1
 
 Installation
